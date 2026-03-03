@@ -1,0 +1,11 @@
+Name: pandas => Version: 2.3.2
+
+Name: numpy => Version: 2.3.1
+
+Name: streamlit => Version: 1.54.0
+
+Name: joblib => Version: 1.5.2
+
+Name: scikit-learn => Version: 1.8.0
+
+Name: xgboost => Version: 3.2.0
