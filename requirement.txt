@@ -1,6 +1,0 @@
-pandas==2.3.2
-numpy==Version: 2.3.1
-streamlit==Version: 1.54.0
-joblib==Version: 1.5.2
-scikit-learn==Version: 1.8.0
-xgboost==Version: 3.2.0
